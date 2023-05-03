@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-03T11:56:20 IST" name="Default suite" finished-at="2023-05-03T11:56:48 IST" duration-ms="27637">
+  <suite started-at="2023-05-03T14:28:38 IST" name="Default suite" finished-at="2023-05-03T14:29:10 IST" duration-ms="32043">
     <groups>
     </groups>
-    <test started-at="2023-05-03T11:56:20 IST" name="Default test" finished-at="2023-05-03T11:56:48 IST" duration-ms="27637">
+    <test started-at="2023-05-03T14:28:38 IST" name="Default test" finished-at="2023-05-03T14:29:10 IST" duration-ms="32043">
       <class name="b">
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:20 IST" name="initialiseBrowser" finished-at="2023-05-03T11:56:29 IST" duration-ms="9167" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T14:28:38 IST" name="initialiseBrowser" finished-at="2023-05-03T14:28:51 IST" duration-ms="13384" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method signature="testEasy()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:29 IST" name="testEasy" finished-at="2023-05-03T11:56:35 IST" duration-ms="5355" status="PASS">
+        <test-method signature="testEasy()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T14:28:51 IST" name="testEasy" finished-at="2023-05-03T14:28:57 IST" duration-ms="5430" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEasy -->
-        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:35 IST" name="postcondition" finished-at="2023-05-03T11:56:37 IST" duration-ms="2129" status="PASS">
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T14:28:57 IST" name="postcondition" finished-at="2023-05-03T14:28:59 IST" duration-ms="2136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postcondition -->
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:37 IST" name="initialiseBrowser" finished-at="2023-05-03T11:56:45 IST" duration-ms="8374" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T14:28:59 IST" name="initialiseBrowser" finished-at="2023-05-03T14:29:08 IST" duration-ms="8602" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method signature="test_getCurrentUrl()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:45 IST" name="test_getCurrentUrl" finished-at="2023-05-03T11:56:45 IST" duration-ms="284" status="PASS">
+        <test-method signature="test_getCurrentUrl()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T14:29:08 IST" name="test_getCurrentUrl" finished-at="2023-05-03T14:29:08 IST" duration-ms="270" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_getCurrentUrl -->
-        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:45 IST" name="postcondition" finished-at="2023-05-03T11:56:48 IST" duration-ms="2138" status="PASS">
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T14:29:08 IST" name="postcondition" finished-at="2023-05-03T14:29:10 IST" duration-ms="2133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postcondition -->
