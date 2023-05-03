@@ -25,7 +25,7 @@ public class a extends Baseclass{
 		  driver.get("https://app.indhi.io");  
 		  String title = driver.getCurrentUrl();  
 		  System.out.println(title);
-		 Assert.assertTrue(title.contains("https://app.indhi.io"));  
+		 Assert.assertTrue(title.contains("https://app.indhi.io/"));  
 		  }
 	 
 	
