@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-03T11:56:20 IST" name="Default suite" finished-at="2023-05-03T11:56:48 IST" duration-ms="27637">
+    <groups>
+    </groups>
+    <test started-at="2023-05-03T11:56:20 IST" name="Default test" finished-at="2023-05-03T11:56:48 IST" duration-ms="27637">
+      <class name="b">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:20 IST" name="initialiseBrowser" finished-at="2023-05-03T11:56:29 IST" duration-ms="9167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseBrowser -->
+        <test-method signature="testEasy()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:29 IST" name="testEasy" finished-at="2023-05-03T11:56:35 IST" duration-ms="5355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:35 IST" name="postcondition" finished-at="2023-05-03T11:56:37 IST" duration-ms="2129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:37 IST" name="initialiseBrowser" finished-at="2023-05-03T11:56:45 IST" duration-ms="8374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseBrowser -->
+        <test-method signature="test_getCurrentUrl()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:45 IST" name="test_getCurrentUrl" finished-at="2023-05-03T11:56:45 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getCurrentUrl -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@8dbdac1]" started-at="2023-05-03T11:56:45 IST" name="postcondition" finished-at="2023-05-03T11:56:48 IST" duration-ms="2138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- b -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
