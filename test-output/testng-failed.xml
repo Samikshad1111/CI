@@ -7,7 +7,7 @@
         <methods>
           <include name="postcondition"/>
           <include name="initialiseBrowser"/>
-          <include name="testEasy"/>
+          <include name="test_getCurrentUrl"/>
         </methods>
       </class> <!-- b -->
     </classes>
