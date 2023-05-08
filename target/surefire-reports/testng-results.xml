@@ -2,58 +2,58 @@
 <testng-results total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-08T11:41:03Z" name="Suite" finished-at="2023-05-08T11:42:25Z" duration-ms="81836">
+  <suite started-at="2023-05-08T11:52:44Z" name="Suite" finished-at="2023-05-08T11:54:02Z" duration-ms="78018">
     <groups>
     </groups>
-    <test started-at="2023-05-08T11:41:03Z" name="Test" finished-at="2023-05-08T11:42:25Z" duration-ms="81836">
+    <test started-at="2023-05-08T11:52:44Z" name="Test" finished-at="2023-05-08T11:54:02Z" duration-ms="78018">
       <class name="a">
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:12:12Z" name="initialiseBrowser" finished-at="2023-05-08T17:12:16Z" duration-ms="4204" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:23:54Z" name="initialiseBrowser" finished-at="2023-05-08T17:23:55Z" duration-ms="1339" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method signature="testEasy()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:12:16Z" name="testEasy" finished-at="2023-05-08T17:12:19Z" duration-ms="2767" status="PASS">
+        <test-method signature="testEasy()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:23:55Z" name="testEasy" finished-at="2023-05-08T17:23:58Z" duration-ms="2453" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEasy -->
-        <test-method is-config="true" signature="postcondition()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:12:19Z" name="postcondition" finished-at="2023-05-08T17:12:19Z" duration-ms="459" status="PASS">
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:23:58Z" name="postcondition" finished-at="2023-05-08T17:23:58Z" duration-ms="375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postcondition -->
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:12:19Z" name="initialiseBrowser" finished-at="2023-05-08T17:12:21Z" duration-ms="1822" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:23:58Z" name="initialiseBrowser" finished-at="2023-05-08T17:24:00Z" duration-ms="1418" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method signature="test_getCurrentUrl()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:12:21Z" name="test_getCurrentUrl" finished-at="2023-05-08T17:12:25Z" duration-ms="3592" status="PASS">
+        <test-method signature="test_getCurrentUrl()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:24:00Z" name="test_getCurrentUrl" finished-at="2023-05-08T17:24:02Z" duration-ms="2488" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_getCurrentUrl -->
-        <test-method is-config="true" signature="postcondition()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:12:25Z" name="postcondition" finished-at="2023-05-08T17:12:25Z" duration-ms="448" status="PASS">
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:a@247310d0]" started-at="2023-05-08T17:24:02Z" name="postcondition" finished-at="2023-05-08T17:24:02Z" duration-ms="284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postcondition -->
       </class> <!-- a -->
       <class name="b">
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:11:03Z" name="initialiseBrowser" finished-at="2023-05-08T17:11:48Z" duration-ms="44143" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:22:44Z" name="initialiseBrowser" finished-at="2023-05-08T17:23:30Z" duration-ms="45606" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method signature="testEasy()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:11:48Z" name="testEasy" finished-at="2023-05-08T17:11:53Z" duration-ms="5845" status="PASS">
+        <test-method signature="testEasy()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:23:30Z" name="testEasy" finished-at="2023-05-08T17:23:36Z" duration-ms="5909" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEasy -->
-        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:11:53Z" name="postcondition" finished-at="2023-05-08T17:11:56Z" duration-ms="2297" status="PASS">
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:23:36Z" name="postcondition" finished-at="2023-05-08T17:23:39Z" duration-ms="2723" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postcondition -->
-        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:11:56Z" name="initialiseBrowser" finished-at="2023-05-08T17:12:08Z" duration-ms="12300" status="PASS">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:23:39Z" name="initialiseBrowser" finished-at="2023-05-08T17:23:52Z" duration-ms="12858" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialiseBrowser -->
-        <test-method signature="test_getCurrentUrl()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:12:08Z" name="test_getCurrentUrl" finished-at="2023-05-08T17:12:10Z" duration-ms="1512" status="PASS">
+        <test-method signature="test_getCurrentUrl()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:23:52Z" name="test_getCurrentUrl" finished-at="2023-05-08T17:23:52Z" duration-ms="294" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_getCurrentUrl -->
-        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:12:10Z" name="postcondition" finished-at="2023-05-08T17:12:12Z" duration-ms="2386" status="PASS">
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:b@1040be71]" started-at="2023-05-08T17:23:52Z" name="postcondition" finished-at="2023-05-08T17:23:54Z" duration-ms="2192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postcondition -->
